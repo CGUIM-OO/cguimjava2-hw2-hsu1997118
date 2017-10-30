@@ -7,7 +7,7 @@ import java.util.Scanner;
  * B0544113 許芮萍
  * 步驟一 由Card開始寫 suit=花色 rank=數字 
  * 步驟二 再寫Deck 將nDeck牌放入cards中
- * 因為不知道會有多少牌 所以要用for(Card card:cards))不要用for(int i...;i... ;i...)
+ * 因為不知道會有多少牌 所以要用Enhance for loop: for(Card card:cards))不要用一般的for迴圈 for(int i...;i... ;i...)
  * 最後將牌依序印出來
  * Try to write some comments for your codes (methods, 15 points)
  */
